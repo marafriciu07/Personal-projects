@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1782820478 source:c:\dsa\inventory_online_shop\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

@@ -1,0 +1,12 @@
+10
+WirelessMouse 25.00 LogisticsTech
+MechanicalKeyboard 150.00 ClickyKeys
+NoiseCancellingMic 45.50 AudioPure
+USB-C_Cable 75.00 PowerLink
+WebcamHD 60.00 VisionPro
+LaptopStand 40.00 DeskComfort
+BluetoothSpeaker 55.00 SoundWave
+PhoneCharger 20.00 FastCharge
+GamingHeadset 80.00 GameAudio
+MousePadXL 15.00 SmoothMove
+100.00
